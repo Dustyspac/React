@@ -8,8 +8,6 @@ Hanghae99 week of React
 
 Studying with Online Class
 </br>
-Sparta Coding Club
-</br>
 url : https://online.spartacodingclub.kr/classroom
 </br>
 
