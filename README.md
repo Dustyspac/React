@@ -21,3 +21,18 @@ Task 03.
 </br>
 Task 04. 
 </br>
+
+</br>
+24.02.21 Wed : Jason commit.
+landing page, banner btn primary - danger
+Json Query - 96 line undefinend ~
+Json Query - 130 lines too
+
+React - NM
+JS ER - NM
+HTML - NM
+CSS - NM
+RTNT - NM
+
+ios - test fin
+android - Nass
