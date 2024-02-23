@@ -28,6 +28,8 @@ function App() {
     };
     if (title === "" && contents === "") alert("내용을 추가하세요");
     else setTodo([...todo, newTodo]);
+    setContents("");
+    setTitle("");
   };
 
   // 할일삭제기능
@@ -65,7 +67,7 @@ function App() {
   return (
     <div className="layout">
       <div className="container">
-        <p>My To-Do List</p>
+        <p>Todo List📌</p>
         <p>React</p>
         </div>
       <div className="add-form">
